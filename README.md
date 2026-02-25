@@ -22,39 +22,39 @@ This repository is designed to:
 ---
 
 # 📂 Project Structure
-python-core-dsa/
-│
-├── Python_Core/
-│ ├── 01_Variables_DataTypes/
-│ ├── 02_Operators/
-│ ├── 03_Conditions/
-│ ├── 04_Loops/
-│ ├── 05_Functions/
-│ ├── 06_Strings/
-│ ├── 07_Collections/
-│ ├── 08_Dictionaries/
-│ ├── 09_File_Handling/
-│ └── 10_OOP/
-│
-├── DSA/
-│ ├── 01_Arrays/
-│ ├── 02_Strings/
-│ ├── 03_Linked_List/
-│ ├── 04_Stack/
-│ ├── 05_Queue/
-│ ├── 06_Recursion/
-│ ├── 07_Sorting/
-│ ├── 08_Searching/
-│ ├── 09_Trees/
-│ ├── 10_Graphs/
-│ └── 11_Dynamic_Programming/
-│
-├── Assignments/
-│ ├── Weekly_Assignments/
-│ └── Mini_Projects/
-│
-├── Notes/
-└── README.md
+    python-core-dsa/
+    │
+    ├── Python_Core/
+    │ ├── 01_Variables_DataTypes/
+    │ ├── 02_Operators/
+    │ ├── 03_Conditions/
+    │ ├── 04_Loops/
+    │ ├── 05_Functions/
+    │ ├── 06_Strings/
+    │ ├── 07_Collections/
+    │ ├── 08_Dictionaries/
+    │ ├── 09_File_Handling/
+    │ └── 10_OOP/
+    │
+    ├── DSA/
+    │ ├── 01_Arrays/
+    │ ├── 02_Strings/
+    │ ├── 03_Linked_List/
+    │ ├── 04_Stack/
+    │ ├── 05_Queue/
+    │ ├── 06_Recursion/
+    │ ├── 07_Sorting/
+    │ ├── 08_Searching/
+    │ ├── 09_Trees/
+    │ ├── 10_Graphs/
+    │ └── 11_Dynamic_Programming/
+    │
+    ├── Assignments/
+    │ ├── Weekly_Assignments/
+    │ └── Mini_Projects/
+    │
+    ├── Notes/
+    └── README.md
 
 
 ---
@@ -107,6 +107,7 @@ git push origin feature-arrays-student1
 
 ### 👨‍🏫 Maintainer
 Vaibhav Shewale
+
 AI & Data Science
 
 
